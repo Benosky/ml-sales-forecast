@@ -1,7 +1,7 @@
 #pyarrow==0.15.1
 pyarrow
-#pyspark==2.4.7
-pyspark
+pyspark==2.4.7
+#pyspark
 PyMeeus==0.4.3
 six==1.15.0
 ephem==3.7.7.1
