@@ -17,7 +17,7 @@ LunarCalendar==0.0.9
 holidays==0.10.5.2
 fbprophet==0.6
 #prophet
-scikit-learn==0.21.2
+scikit-learn==0.24.1
 #sklearn
 streamlit==0.62.0
 
