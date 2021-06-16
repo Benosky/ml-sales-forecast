@@ -7,7 +7,7 @@ import pandas as pd
 import pyspark
 from pyspark.sql import SparkSession
 from pyspark.sql.types import *
-from fbprophet import Prophet
+from prophet import Prophet
 from pyspark.sql import SQLContext
 from pyspark import SparkContext
 
